@@ -1,2 +1,2 @@
-# cards-against-humanity-automated
- A fun little game that can be played on Zoom
+# Cards Against Humanity - Zoom Edition
+ A fun little game that can be played on Zoom with family and friends!
